@@ -1,3 +1,5 @@
+import random
+
 def main():
   students = [
     Student("Larsson", 37),
